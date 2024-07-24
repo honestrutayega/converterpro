@@ -27,15 +27,24 @@ This package provides utilities for encoding and decoding text, Base64, and URL 
 ```bash
 
 ./base64_encode.sh "text_to_encode"
+```
 ### Base64 Decoding
+```bash
 ./base64_decode.sh "base64_encoded_text"
+```
 ### Text Encoding
+```bash
 ./text_encode.sh "text_to_encode"
+```
 ### Text Decoding
+```bash
 ./text_decode.sh "text_to_decode"
+```
 ### URL Encoding
+```bash
 ./url_endecode.sh encode "url_to_encode"
+```
 ### URL Decoding
+```bash
 ./url_endecode.sh decode "url_to_decode"
-
 ```
